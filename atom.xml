@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://mariannegreat.github.io/atom.xml" rel="self"/>
   <link href="http://mariannegreat.github.io/"/>
-  <updated>2013-10-23T18:28:08-04:00</updated>
+  <updated>2013-10-23T18:44:47-04:00</updated>
   <id>http://mariannegreat.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Second First Blog Post]]></title>
+    <link href="http://mariannegreat.github.io/blog/2013/10/23/the-second-first-blog-post/"/>
+    <updated>2013-10-23T18:34:00-04:00</updated>
+    <id>http://mariannegreat.github.io/blog/2013/10/23/the-second-first-blog-post</id>
+    <content type="html"><![CDATA[<p><strong>The Second First Blog Post</strong></p>
+
+<p>After totally botching the first repo, Eddie calmly (&ldquo;It&rsquo;s going to be okay&rdquo;) helped me destroy my local octopress folder and github.io repo, and set it up all over again. Thank you Eddie.</p>
+
+<p>Let&rsquo;s hope the second time is the last first post!</p>
+]]></content>
+  </entry>
   
 </feed>
